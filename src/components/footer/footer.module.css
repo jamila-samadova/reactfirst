@@ -1,0 +1,9 @@
+.footer_title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: goldenrod;
+    height: 80px;
+    color: aliceblue;
+
+}

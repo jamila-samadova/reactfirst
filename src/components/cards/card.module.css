@@ -1,0 +1,14 @@
+
+.card_component_content {
+    border: 5px solid black;
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.card_comp{
+font-size: 24px;
+}
